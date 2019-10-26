@@ -32,7 +32,7 @@ Model                 |   Hate    |  NoHate  |  All   ||  Hate  |  NoHate |  All
 Logistic Regression   |           |          |        ||  x.xx  |  x.xx   |  x.xx    |
 SVM                   |   0.72    |   0.76   |  0.74  ||  x.xx  |  x.xx   |  0.6875  |
 CNN                   |   0.54    |   0.86   |  0.70  ||  x.xx  |  x.xx   |  0.72    |
-SVM                   |   0.76    |   0.80   |  0.78  ||  x.xx  |  x.xx   |  x.xx    |
+LSTM                  |   0.76    |   0.80   |  0.78  ||  0.71  |  0.68   |  0.70    |
 ```
 
 Results including `relation` label
@@ -42,5 +42,5 @@ Model                 |   Hate    |  NoHate  |  All   ||  Hate  |  NoHate |  All
 Logistic Regression   |           |          |        ||  x.xx  |  x.xx   |  x.xx    |
 SVM                   |   0.69    |   0.73   |  0.71  ||  x.xx  |  x.xx   |  0.7025  |
 CNN                   |   0.55    |   0.79   |  0.66  ||  x.xx  |  x.xx   |  0.67    |
-SVM                   |   0.71    |   0.75   |  0.73  ||  x.xx  |  x.xx   |  x.xx    |
+LSTM                  |   0.71    |   0.75   |  0.73  ||  x.xx  |  x.xx   |  x.xx    |
 ```
