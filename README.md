@@ -1,4 +1,4 @@
-# ML-Practice
+# Hate Speech Classification
 
 This is my attempt to replicate the paper "Hate Speech Dataset from a White Supremacy Forum" released in 2018
 https://www.aclweb.org/anthology/W18-5102/
